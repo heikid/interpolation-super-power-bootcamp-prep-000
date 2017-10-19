@@ -8,5 +8,5 @@ def display_rainbow(colors)
   I = [I: indigo]
   V = [V: violet]
   colors = [R, O, Y, G, B, I, V]
-  puts "#{colors(0)}, #{colors(1)}, #{colors(2)}, #{colors(3)}, #{colors(4)}, #{colors(5)}, #{colors(6)}"
+  print "#{colors(0)}, #{colors(1)}, #{colors(2)}, #{colors(3)}, #{colors(4)}, #{colors(5)}, #{colors(6)}"
 end
